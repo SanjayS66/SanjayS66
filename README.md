@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **sanjay702594@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/SanjayS66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SanjayS66" height="30" width="40" /></a>
