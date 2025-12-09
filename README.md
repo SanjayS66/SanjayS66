@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m an aspiring engineer passionate about robotics, artificial intelligence, and machine learning. I’ve been actively exploring and building projects across the robotics stack — from ROS 2, SLAM, localisation, and autonomous navigation to embedded development with STM32, ESP32, motor-control pipelines, sensor fusion, and mecanum-drive systems. I love working on robots that can perceive their surroundings, understand them, and move intelligently.
+I’m an aspiring engineer passionate about robotics, artificial intelligence, and machine learning. I’ve been actively exploring and building projects across the robotics stack — from ROS 2, SLAM, localisation, and autonomous navigation to embedded development with ESP32, motor-control pipelines, sensor fusion, and mecanum-drive systems. I love working on robots that can perceive their surroundings, understand them, and move intelligently.
 
 My interests also extend into AI and ML, where I’ve worked on neural networks, computer vision, image classification, and object detection, as well as integrating these models into robotics workflows. I’m fascinated by how learning-driven algorithms can enhance autonomy and real-world decision-making.
 
