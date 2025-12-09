@@ -63,7 +63,7 @@ I enjoy diving deep into topics like navigation algorithms, control systems, LiD
 
 ## Github Stats  
 
-![SanjayS66's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayS66&show_icons=true&theme=default)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayS66&theme=dark&show_icons=true)
 
 ----
 
