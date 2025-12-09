@@ -1,6 +1,9 @@
 <p align="center">
-# Hi 👋, I'm SanjayS66
 
+# Hi 👋, I'm SanjayS66
+</p>
+<p align="center">
+  
 ### A aspiring Robotics and AI engineer
 </p>
 - 🔭 I'm currently working on **Autonomous Mapping and Navigation Simulations**
