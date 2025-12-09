@@ -66,7 +66,7 @@ I enjoy diving deep into topics like navigation algorithms, control systems, LiD
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SanjayS66)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayS66&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayS66&show_icons=true) 
 
 ----
 
