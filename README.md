@@ -29,7 +29,7 @@ I enjoy diving deep into topics like navigation algorithms, control systems, LiD
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [Autonomous Navigation Simulations](https://github.com/SanjayS66/karma_fortress_simulations)  
   
@@ -38,16 +38,7 @@ I enjoy diving deep into topics like navigation algorithms, control systems, LiD
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
