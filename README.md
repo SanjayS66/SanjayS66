@@ -62,29 +62,11 @@ I enjoy diving deep into topics like navigation algorithms, control systems, LiD
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SanjayS66)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanjayS66)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayS66&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayS66&show_icons=true)  
 
 ----
 
