@@ -1,7 +1,8 @@
+<p align="center">
 # Hi 👋, I'm SanjayS66
 
 ### A aspiring Robotics and AI engineer
-
+</p>
 - 🔭 I'm currently working on **Autonomous Mapping and Navigation Simulations**
 
 - 🌱 I'm currently learning **ROS2 Nav2 stack**
