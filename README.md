@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay S</h1>
-<h3 align="center">A aspiring Robotics and AI engineer</h3>
+
 
 - 🔭 I’m currently working on [Autonomous Mapping and Navigation Simulations](https://github.com/SanjayS66/karma_fortress_simulations)
 
@@ -23,4 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayS66&show_icons=true&locale=en&layout=compact" alt="SanjayS66" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanjayS66&show_icons=true&locale=en" alt="SanjayS66" /></p>
+
+
