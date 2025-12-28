@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay S</h1>
 <h3 align="center">A aspiring Robotics and AI engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanjayS66" alt="SanjayS66" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanjayS66)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Autonomous Mapping and Navigation Simulations](https://github.com/SanjayS66/karma_fortress_simulations)
 
