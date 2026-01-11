@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **sanjay702594@gmail.com**
 
+![stats](https://github.com/SanjayS66/SanjayS66/blob/main/profile-3d-contrib/profile-night-green.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjay-s-25274a284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-s-25274a284" height="30" width="40" /></a>
