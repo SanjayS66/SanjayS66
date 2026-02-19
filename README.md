@@ -30,7 +30,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23FF7524.svg?style=for-the-badge&logo=gazebo&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94302?![TurtleBot](https://img.shields.io/badge/TurtleBot-%23000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white)style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94302?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
