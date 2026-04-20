@@ -39,10 +39,19 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjay-s-25274a284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-s-25274a284" height="30" width="40" /></a>
-<a href="https://kaggle.com/sanjays66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanjays66" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjay._.s5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay._.s5" height="30" width="40" /></a>
+
+<p>
+  <a href="https://linkedin.com/in/sanjay-s-25274a284" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://kaggle.com/sanjays66" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://instagram.com/sanjay._.s5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
 
 
